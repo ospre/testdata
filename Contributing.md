@@ -1,1 +1,1 @@
-'These are the rules for murging' 
+'These are the rules for merging' 
